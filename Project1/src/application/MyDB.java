@@ -1,4 +1,4 @@
-package ex02;
+package application;
 
 import java.util.HashMap;
 
